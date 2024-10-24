@@ -116,19 +116,19 @@ instana init
 ```
 
  - Information:
-Installation Type: Select single
-Tenant Name: fauzi
-Unit Name: labs
-Agent Key: < agent key>
-Download Key: <download key>
-Sales Key: < sales key>
-DNS name/Domain: <use IP VM> or Domain
-Data be stored: /mnt/data
-Trace data be stored: /mnt/metrics
-Metric data be stored: /mnt/traces
-Logs be stored: /var/log/instana
-Path signed certificate: - (if using Domain)
-Path private key: - (if using Domain)
+ -- Installation Type: Select single
+ -- Tenant Name: fauzi
+ -- Unit Name: labs
+ -- Agent Key: < agent key>
+ -- Download Key: <download key>
+ -- Sales Key: < sales key>
+ -- DNS name/Domain: <use IP VM> or Domain
+ -- Data be stored: /mnt/data
+ -- Trace data be stored: /mnt/metrics
+ -- Metric data be stored: /mnt/traces
+ -- Logs be stored: /var/log/instana
+ -- Path signed certificate: - (if using Domain)
+ -- Path private key: - (if using Domain)
 
 # Activation License #
 
