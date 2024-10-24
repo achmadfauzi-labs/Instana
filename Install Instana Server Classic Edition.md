@@ -53,7 +53,11 @@ sudo systemctl enable containerd.service
 ## Create directory instana ##
 ```
 sudo su
+```
+```
 mkdir /opt/instana
+```
+```
 cd /opt/instana
 ```
 
@@ -86,6 +90,8 @@ apt update -y
 ```
 #Version Current
 apt install instana-console
+```
+```
 #Spesifik Version
 apt install instana-console=277-1-1
 ```
