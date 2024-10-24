@@ -115,7 +115,7 @@ sudo mkdir /mnt/{data,metrics,traces}
 instana init
 ```
 
- - Information:
+ - Information:-
  -- Installation Type: Select single
  -- Tenant Name: fauzi
  -- Unit Name: labs
