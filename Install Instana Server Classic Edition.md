@@ -48,7 +48,7 @@ sudo systemctl enable containerd.service
 ```
 
 
-# Install Docker #
+# Install Instana Server #
 
 ## Create directory instana ##
 ```
