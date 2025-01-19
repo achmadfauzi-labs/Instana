@@ -1,4 +1,3 @@
-test
 # Install Instana Server on Ubuntu 22.04 #
 
 # Install Docker #
